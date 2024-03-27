@@ -1,1 +1,3 @@
-# Chaintech homepage website using React JS
+# Chaintech
+
+Chaintech homepage website using React JS
