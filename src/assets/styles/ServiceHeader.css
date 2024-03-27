@@ -1,0 +1,35 @@
+.service-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.header-icons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+.header-icons .arrow-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.header-icons .arrow-icon:last-child {
+    border: 2px solid #000;
+}
+
+@media screen and (max-width: 600px) {
+    .service-header {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+}

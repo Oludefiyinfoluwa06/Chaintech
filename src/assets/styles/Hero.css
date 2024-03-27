@@ -1,0 +1,28 @@
+.hero-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+    padding: 50px 70px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.hero-text h1 {
+    text-transform: uppercase;
+    font-size: 60px;
+}
+
+.hero-text h1 span {
+    background: linear-gradient(to right, #FFFF00, #00FFA7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+@media screen and (max-width: 600px) {
+    .hero-text h1 {
+        font-size: 30px;
+    }
+}
