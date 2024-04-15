@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a10997d8.css",
-    "main.js": "/static/js/main.de93ce2b.js",
-    "static/media/image1.png": "/static/media/image1.5499a39e7d4dbc80456e.png",
-    "static/media/image2.png": "/static/media/image2.3c280b911ff23a3a5861.png",
-    "static/media/image4.png": "/static/media/image4.3abe75d15ebb84e55d8b.png",
-    "static/media/image3.png": "/static/media/image3.ad27d8b0da9b0b8ed1a7.png",
-    "static/media/logo.svg": "/static/media/logo.c9fd5e2fa99b22dd559708f109046ca3.svg",
-    "static/media/logo2.svg": "/static/media/logo2.beecbfe6725faf55c85e7d9e19a65850.svg",
-    "index.html": "/index.html",
-    "main.a10997d8.css.map": "/static/css/main.a10997d8.css.map",
-    "main.de93ce2b.js.map": "/static/js/main.de93ce2b.js.map"
+    "main.css": "/Chaintech/static/css/main.a10997d8.css",
+    "main.js": "/Chaintech/static/js/main.852a8233.js",
+    "static/media/image1.png": "/Chaintech/static/media/image1.5499a39e7d4dbc80456e.png",
+    "static/media/image2.png": "/Chaintech/static/media/image2.3c280b911ff23a3a5861.png",
+    "static/media/image4.png": "/Chaintech/static/media/image4.3abe75d15ebb84e55d8b.png",
+    "static/media/image3.png": "/Chaintech/static/media/image3.ad27d8b0da9b0b8ed1a7.png",
+    "static/media/logo.svg": "/Chaintech/static/media/logo.c9fd5e2fa99b22dd559708f109046ca3.svg",
+    "static/media/logo2.svg": "/Chaintech/static/media/logo2.beecbfe6725faf55c85e7d9e19a65850.svg",
+    "index.html": "/Chaintech/index.html",
+    "main.a10997d8.css.map": "/Chaintech/static/css/main.a10997d8.css.map",
+    "main.852a8233.js.map": "/Chaintech/static/js/main.852a8233.js.map"
   },
   "entrypoints": [
     "static/css/main.a10997d8.css",
-    "static/js/main.de93ce2b.js"
+    "static/js/main.852a8233.js"
   ]
 }
